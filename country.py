@@ -1,0 +1,5 @@
+x=input("find the no of the words in given sentence")
+y=x.strip()
+z=y.split('.')
+l=len(z)
+print("this sentence in having",l,"words")
